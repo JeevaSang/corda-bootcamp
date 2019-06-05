@@ -1,0 +1,17 @@
+.gradle
+.idea/
+build
+lib/dependencies/
+.DS_Store
+out
+bootcamp-cordapp.iml
+bin/
+.settings/
+.classpath
+.project
+gradle/
+src/main/._.DS_Store
+src/test/java/._.DS_Store
+src/main/java/._.DS_Store
+._build.gradle
+settings.gradle
